@@ -1,0 +1,10 @@
+[
+  {
+    "package": "phyloseqGraphTest",
+    "oncran": true
+  },
+  {
+    "package": "treeDA",
+    "oncran": true
+  }
+]
