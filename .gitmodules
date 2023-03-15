@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "adaptiveGPCA"]
+	path = adaptiveGPCA
+	url = https://github.com/jfukuyama/adaptivegpca
+	shallow = true
+	registered = true
 [submodule "phyloseqGraphTest"]
 	path = phyloseqGraphTest
 	url = https://github.com/jfukuyama/phyloseqgraphtest

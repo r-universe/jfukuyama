@@ -1,5 +1,9 @@
 [
   {
+    "package": "adaptiveGPCA",
+    "oncran": true
+  },
+  {
     "package": "phyloseqGraphTest",
     "oncran": true
   },
